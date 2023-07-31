@@ -4,7 +4,7 @@ My name is Valerie! I am currently a first generation college student majoring i
 
 ## 👩‍💻 Career Goals & Aspirations
 
-My goal with computer science is to one day work with companies like Pixar, Dreamworks, Lucasfilm, or Walt Disney. I love the idea of being able to combine tech and film! I grew up watching TV and movies all the time as well as playing video games, so working in the film industry would be a dream come true. 
+My goal with computer science is to one day work with companies like <b>Pixar, Dreamworks, Lucasfilm, or Walt Disney</b>. I love the idea of being able to combine tech and film! I grew up watching TV and movies all the time as well as playing video games, so working in the film industry would be a dream come true. 
 
 I grew up believing the fallacy that movies and games were just for fun and that there was no way that I could make a career out of it. During my 1st year of college, I attended a Pixar seminar where I learned that software developers had a place in the film space. This was when my childhood hobbies and current major merged to create my ultimate career goal. 
 
