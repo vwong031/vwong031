@@ -6,6 +6,8 @@ My name is Valerie! I am currently a first generation college student majoring i
 
 My goal with computer science is to one day work with companies like <b>Pixar, Dreamworks, Lucasfilm, or Walt Disney</b>. I love the idea of being able to combine tech and film! I grew up watching TV and movies all the time as well as playing video games, so working in the film industry would be a dream come true. 
 
+I also have taken an interest in web development and design, so I'd love to combine these passions and delve into the marketing, graphic design, and tech world.
+
 I grew up believing the fallacy that movies and games were just for fun and that there was no way that I could make a career out of it. During my 1st year of college, I attended a Pixar seminar where I learned that software developers had a place in the film space. This was when my childhood hobbies and current major merged to create my ultimate career goal. 
 
 ![tumblr_lpfk8quIhM1qm6oc3o1_500](https://github.com/vwong031/vwong031/assets/74090811/693f35ad-0066-47d1-bbcc-6a8f63d0465a)
